@@ -1,0 +1,16 @@
+C:\exercicios_c#\Exercicio-9\bin\Debug\net5.0\Exercicio-9.exe
+C:\exercicios_c#\Exercicio-9\bin\Debug\net5.0\Exercicio-9.deps.json
+C:\exercicios_c#\Exercicio-9\bin\Debug\net5.0\Exercicio-9.runtimeconfig.json
+C:\exercicios_c#\Exercicio-9\bin\Debug\net5.0\Exercicio-9.runtimeconfig.dev.json
+C:\exercicios_c#\Exercicio-9\bin\Debug\net5.0\Exercicio-9.dll
+C:\exercicios_c#\Exercicio-9\bin\Debug\net5.0\ref\Exercicio-9.dll
+C:\exercicios_c#\Exercicio-9\bin\Debug\net5.0\Exercicio-9.pdb
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.csproj.AssemblyReference.cache
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.AssemblyInfoInputs.cache
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.AssemblyInfo.cs
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.csproj.CoreCompileInputs.cache
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.dll
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\ref\Exercicio-9.dll
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.pdb
+C:\exercicios_c#\Exercicio-9\obj\Debug\net5.0\Exercicio-9.genruntimeconfig.cache
