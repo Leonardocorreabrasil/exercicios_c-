@@ -1,0 +1,16 @@
+C:\exercicios_c#\Exercicio-14\bin\Debug\net5.0\Exercicio-14.exe
+C:\exercicios_c#\Exercicio-14\bin\Debug\net5.0\Exercicio-14.deps.json
+C:\exercicios_c#\Exercicio-14\bin\Debug\net5.0\Exercicio-14.runtimeconfig.json
+C:\exercicios_c#\Exercicio-14\bin\Debug\net5.0\Exercicio-14.runtimeconfig.dev.json
+C:\exercicios_c#\Exercicio-14\bin\Debug\net5.0\Exercicio-14.dll
+C:\exercicios_c#\Exercicio-14\bin\Debug\net5.0\ref\Exercicio-14.dll
+C:\exercicios_c#\Exercicio-14\bin\Debug\net5.0\Exercicio-14.pdb
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.csproj.AssemblyReference.cache
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.AssemblyInfoInputs.cache
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.AssemblyInfo.cs
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.csproj.CoreCompileInputs.cache
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.dll
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\ref\Exercicio-14.dll
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.pdb
+C:\exercicios_c#\Exercicio-14\obj\Debug\net5.0\Exercicio-14.genruntimeconfig.cache
