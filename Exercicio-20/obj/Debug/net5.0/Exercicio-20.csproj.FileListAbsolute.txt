@@ -1,0 +1,16 @@
+C:\exercicios_c#\Exercicio-20\bin\Debug\net5.0\Exercicio-20.exe
+C:\exercicios_c#\Exercicio-20\bin\Debug\net5.0\Exercicio-20.deps.json
+C:\exercicios_c#\Exercicio-20\bin\Debug\net5.0\Exercicio-20.runtimeconfig.json
+C:\exercicios_c#\Exercicio-20\bin\Debug\net5.0\Exercicio-20.runtimeconfig.dev.json
+C:\exercicios_c#\Exercicio-20\bin\Debug\net5.0\Exercicio-20.dll
+C:\exercicios_c#\Exercicio-20\bin\Debug\net5.0\ref\Exercicio-20.dll
+C:\exercicios_c#\Exercicio-20\bin\Debug\net5.0\Exercicio-20.pdb
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.csproj.AssemblyReference.cache
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.AssemblyInfoInputs.cache
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.AssemblyInfo.cs
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.csproj.CoreCompileInputs.cache
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.dll
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\ref\Exercicio-20.dll
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.pdb
+C:\exercicios_c#\Exercicio-20\obj\Debug\net5.0\Exercicio-20.genruntimeconfig.cache
