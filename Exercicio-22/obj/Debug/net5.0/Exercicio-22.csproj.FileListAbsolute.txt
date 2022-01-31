@@ -1,0 +1,16 @@
+C:\exercicios_c#\Exercicio-22\bin\Debug\net5.0\Exercicio-22.exe
+C:\exercicios_c#\Exercicio-22\bin\Debug\net5.0\Exercicio-22.deps.json
+C:\exercicios_c#\Exercicio-22\bin\Debug\net5.0\Exercicio-22.runtimeconfig.json
+C:\exercicios_c#\Exercicio-22\bin\Debug\net5.0\Exercicio-22.runtimeconfig.dev.json
+C:\exercicios_c#\Exercicio-22\bin\Debug\net5.0\Exercicio-22.dll
+C:\exercicios_c#\Exercicio-22\bin\Debug\net5.0\ref\Exercicio-22.dll
+C:\exercicios_c#\Exercicio-22\bin\Debug\net5.0\Exercicio-22.pdb
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.csproj.AssemblyReference.cache
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.AssemblyInfoInputs.cache
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.AssemblyInfo.cs
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.csproj.CoreCompileInputs.cache
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.dll
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\ref\Exercicio-22.dll
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.pdb
+C:\exercicios_c#\Exercicio-22\obj\Debug\net5.0\Exercicio-22.genruntimeconfig.cache
